@@ -1,3 +1,4 @@
+真的真的是python大作业啊，不是我的published paper😭orz
 <img width="1133" height="1467" alt="AXR__A_Self_Play_Reinforcement_Learning_Framework_for_Chinese_Chess_Based_on_Monte_Carlo_Tree_Searchs (2)_00(1)" src="https://github.com/user-attachments/assets/11d2ceaf-f580-4f81-a89b-16c9708ee5c9" />
 <img width="1133" height="1467" alt="AXR__A_Self_Play_Reinforcement_Learning_Framework_for_Chinese_Chess_Based_on_Monte_Carlo_Tree_Searchs (2)_01(1)" src="https://github.com/user-attachments/assets/13d81ed6-2d6e-412e-9deb-5fa30c1cb275" />
 <img width="1133" height="1467" alt="AXR__A_Self_Play_Reinforcement_Learning_Framework_for_Chinese_Chess_Based_on_Monte_Carlo_Tree_Searchs (2)_02(1)" src="https://github.com/user-attachments/assets/c77c7df1-df72-4ece-88fd-11b0222e26fc" />
